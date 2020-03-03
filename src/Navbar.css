@@ -1,0 +1,44 @@
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  border-bottom: 3px solid #3b3a3a;
+}
+
+#logo {
+  width: 15%;
+  height: 5em;
+  margin: 0 10px;
+}
+
+#navList {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 35%;
+  margin-left: 20px;
+  margin-right: 18px;
+}
+
+nav li {
+  flex: 1;
+  list-style: none;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #e50914;
+  color: #ffffff;
+  border-radius: 4px;
+  margin: 8px 5px;
+  padding: 7px 17px;
+}
+
+li a {
+  opacity: 0.8;
+  text-align: center;
+}
+li a:hover {
+  opacity: 1;
+}
