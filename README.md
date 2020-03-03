@@ -1,5 +1,5 @@
 
-This project is a simple demo about "NetFlix" style front page based on React. 
+This project is a simple demo about "Netflix" style front page based on React. 
 The initial load is for a coding test. After that, it's for personal study & practice purpose ONLY.
 Have a Good Day!
 
