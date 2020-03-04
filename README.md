@@ -1,3 +1,18 @@
+
+Mar.4.2020 Update project with React-Redux
+
+RL
+
+--------------------------------
+This project is a simple demo about "Netflix" style front page based on React. 
+The initial load is for a coding test. After that, it's for personal study & practice purpose ONLY.
+Have a Good Day!
+
+Robin Liu
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
