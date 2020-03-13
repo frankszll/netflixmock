@@ -1,0 +1,25 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  margin: 40px 100px;
+}
+
+/* h2 {
+  display: none;
+} */
+
+h2 {
+  border-bottom: 3px solid #3b3a3a;
+  width: 100%;
+  color: #ffffff;
+}
+
+.showList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-right: 20px;
+  color: #ffffff;
+  flex-wrap: wrap;
+  list-style: none;
+}
