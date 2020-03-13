@@ -1,13 +1,13 @@
 Mar.12.2020 
 
 ###
-1. `Button move to a separetly component`.<br />
-2. `Built "return <li>" to a reusable component, instead of generate two list to show the items`.<br />
-3. `Restructure the file folders`.<br />
+1. `Button move to a separetly component for reusable`.<br />
+2. `Rebuilt "return <li>" to the more reusable components, instead of generate two list to show different types of the items`.<br />
+3. `Reorg the files to better folders structures`.<br />
   |—— actions.<br />
   |—— components.<br />
   |—— containers.<br />
-  └── reducers.<br />
+  |—— reducers.<br />
   ...
 --------------------------------
 Mar.4.2020 Update project with React-Redux
