@@ -1,0 +1,44 @@
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.showcard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 80%;
+  height: auto;
+  /* position: relative; */
+}
+
+.showcardHide {
+  display: none;
+}
+
+.showcard:hover .btn {
+  opacity: 0.8;
+  transition: 0.3s linear;
+}
+/* .showPic:hover {
+  display: flex;
+  flex-direction: row;
+} */
+
+h3 {
+  text-align: center;
+  /* background-color: #e50914; */
+  display: inline-block;
+  padding-bottom: 0;
+  margin: 10px 0;
+  border-color: #1d1c1c;
+  /* border-radius: 5px; */
+}
+
+.showImg {
+  max-width: 100%;
+  height: auto;
+  /* margin-bottom: 2px; */
+  /* padding-bottom: 2px; */
+}

@@ -1,0 +1,16 @@
+.btn {
+  opacity: 0;
+  display: none;
+  /* position: absolute; */
+  background-color: #e50914;
+  color: #ffffff;
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 0.8em;
+  font-weight: bold;
+  border-color: #3b3a3a;
+  border-radius: 5px;
+  text-align: center;
+  display: inline-block;
+  /* color: #3b3a3a; */
+}
